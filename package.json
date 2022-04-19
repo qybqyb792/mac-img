@@ -1,0 +1,22 @@
+{
+  "name": "qyb-mac-img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zytqyb/mac-img.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "qyb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zytqyb/mac-img/issues"
+  },
+  "homepage": "https://github.com/zytqyb/mac-img#readme"
+}
